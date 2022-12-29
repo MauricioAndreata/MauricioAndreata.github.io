@@ -1,7 +1,10 @@
 @media (max-width: 640px) {
+  html{
+    zoom: 0%;
+  }
+
   body {
     width: 100%;
-    zoom: 0%;
   }
 
   header {
