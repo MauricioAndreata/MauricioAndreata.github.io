@@ -1,0 +1,33 @@
+.contatos {
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-areas:
+    'tittle tittle tittle'
+    'contato social link';
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
+}
+
+.social-container {
+  grid-area: social;
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin-top: -50vh;
+}
+
+.social:hover {
+  color: var(--primary-color);
+}
+
+.social {
+  width: 80px;
+  height: 80px;
+  background-color: var(--icon-color);
+  font-size: 3rem;
+  display: grid;
+  place-content: center;
+  transition: color 0.5s;
+}
