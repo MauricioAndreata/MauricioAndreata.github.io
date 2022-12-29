@@ -68,5 +68,6 @@
 
   .social-container {
     flex-direction: column;
+    margin-top: 5vh;
   }
 }
