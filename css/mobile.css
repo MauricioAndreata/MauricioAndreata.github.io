@@ -32,7 +32,7 @@
   }
 
   .sobre-mim {
-    height: 2100px;
+    height: 240vh;
     display: flex;
     align-items: center;
     gap: 124px;
@@ -43,7 +43,7 @@
   }
 
   .projetos {
-    height: 1800px;
+    height: 130vh;
     display: flex;
   }
 
@@ -63,7 +63,7 @@
   }
 
   .contatos {
-    height: 900px;
+    height: 70vh;
   }
 
   .social-container {
