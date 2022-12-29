@@ -49,6 +49,7 @@ footer {
   border-top: 2px solid white;
   font-size: 0.75rem;
   font-style: italic;
+  margin-top: 2vh;
 }
 
 @media (max-width: 3000px) {
