@@ -1,8 +1,4 @@
 @media (max-width: 640px) {
-  html{
-    zoom: -100%;
-  }
-
   body {
     width: 100%;
   }
