@@ -1,6 +1,6 @@
 @media (max-width: 640px) {
   html{
-    zoom: 0%;
+    zoom: -100%;
   }
 
   body {
