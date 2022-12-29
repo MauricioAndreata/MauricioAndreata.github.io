@@ -1,6 +1,7 @@
 @media (max-width: 640px) {
   body {
     width: 100%;
+    zoom: 0%;
   }
 
   header {
@@ -70,4 +71,5 @@
     flex-direction: column;
     margin-top: 5vh;
   }
+  
 }
